@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+.background-body {
+    background-color: #232536;
+}
+
+.nav-g-style {
+    padding-top: 10px;
+    background-color: #232536;
+}
+
+.nav-font {
+    color: #D6D5D1;
+    font-size: .9rem;
+}
+
+.hr-separator {
+    border: 1px solid #A6986C;
+    margin: 0;
+}
+
+footer {
+    padding: 1rem;
+    text-align: center;
+    font-size: small;
+    background-color: #232536;
+    color: #D6D5D1;
+}
+
+.title {
+    color: #A6986C;
+}
+
+.subtitle {
+    color: #949494
+}
+
+.btn-color {
+    background-color: #A6986C;
+}
